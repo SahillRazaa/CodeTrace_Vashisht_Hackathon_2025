@@ -186,24 +186,6 @@ Restart the backend server:
 npm start
 ```
 
-## Step 6: Enable Unsplash API 
-
-Sign up at [Unsplash API Key](https://unsplash.com/developers)
-
-Create an application and get an API access key
-
-Add it to your .env file:
-
-Create a .env file inside the server directory and add:
-
-```bash
-UNSPLASH_ACCESS_KEY = your_api_key
-```
-Restart the backend server:
-
-```bash
-npm start
-```
 ## Tech Stack  
 
 ### Frontend  
