@@ -44,7 +44,7 @@ CodeTrace provides a structured and interactive approach to debugging and proble
 
 ## 📽YouTube Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/MaFyi5ti8jY/maxresdefault.jpg)](https://www.youtube.com/watch?v=MaFyi5ti8jY)
+[![Watch the Demo](https://img.youtube.com/vi/-N-rkEURm_Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=-N-rkEURm_Y)
 
 🔗 Click on the image to watch the demo!
 
